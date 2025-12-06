@@ -29,3 +29,6 @@ A bare-metal embedded C project for STM32F407 Discovery board that maps three pu
 Note: Internal pull-down resistors are enabled in firmware. External 10kΩ resistors to GND are optional.
 
 
+
+https://github.com/user-attachments/assets/aa7910fc-fb4a-419c-8e54-a0f186ea5cb4
+
